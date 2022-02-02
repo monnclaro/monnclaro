@@ -1,5 +1,5 @@
 # 
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustomonclaro/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustomonclaro/)
 
 Graduado em Logística pela Faculdade da Indústria (IEL) de São José dos Pinhais, profissional hábil em programação e logística, possuindo um histórico diversificado e comprovado no desenvolvimento de projetos em indústrias de diferentes portes e ramos de atividade, buscando a resolução de problemas e obtenção de resultados dentro das mesmas.
 
