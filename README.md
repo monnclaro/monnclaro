@@ -5,3 +5,5 @@ Graduado em Logística pela Faculdade da Indústria (IEL) de São José dos Pinh
 
 LinkedIn: [@augustomonclaro](https://linkedin.com/in/augustomonclaro)
 
+Reach out at monclaro.a@gmail.com
+
